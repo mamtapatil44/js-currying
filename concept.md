@@ -1,0 +1,2 @@
+# Currying in JavaScript is a technique of transforming a function that takes multiple arguments into a sequence of #functions, each taking a single argument. It's a way to simplify function calls and reuse code in a more flexible way.
+# increases code resuablity and readabilty, we can use it for complex composite functions
